@@ -1,8 +1,8 @@
 apiVersion: hive.openshift.io/v1
 kind: ClusterDeployment
 metadata:
-  name: 'cluster2'
-  namespace: 'cluster2'
+  name: 'cluster3'
+  namespace: 'cluster3'
   labels:
     cloud: 'AWS'
     region: 'eu-west-2'
